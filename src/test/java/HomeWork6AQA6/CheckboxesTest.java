@@ -25,6 +25,6 @@ public class CheckboxesTest {
         boxes.findElements(By.xpath("//input[@type='checkbox']")).get(1).click();
         Assert.assertFalse(boxes.findElements(By.xpath("//input[@type='checkbox']")).get(1).isSelected());
         driver.quit();
-
+//
     }
 }

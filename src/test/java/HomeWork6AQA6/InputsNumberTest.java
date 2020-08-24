@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class InputsNumberTest {
     WebDriver driver;
-
+//
     @Test
 
     public void validateInput() {
