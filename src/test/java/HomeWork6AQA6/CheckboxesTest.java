@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class CheckboxesTest {
+public class CheckboxesTest extends BaseTest {
     WebDriver driver;
 
 

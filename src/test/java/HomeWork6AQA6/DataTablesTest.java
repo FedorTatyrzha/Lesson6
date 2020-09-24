@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class DataTablesTest {
+public class DataTablesTest extends BaseTest {
     WebDriver driver;
 
     @Test

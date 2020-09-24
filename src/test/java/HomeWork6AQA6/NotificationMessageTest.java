@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;////
 import static org.testng.Assert.assertEquals;
 
-public class NotificationMessageTest {
+public class NotificationMessageTest extends BaseTest {
     WebDriver driver;
 
     @Test

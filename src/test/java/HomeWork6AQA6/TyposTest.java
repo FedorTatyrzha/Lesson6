@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 ////
-public class TyposTest {
+public class TyposTest extends BaseTest {
     WebDriver driver;
 
 

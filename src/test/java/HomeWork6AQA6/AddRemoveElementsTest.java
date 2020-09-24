@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class AddRemoveElementsTest {
+public class AddRemoveElementsTest extends BaseTest {
     WebDriver driver;
 
 

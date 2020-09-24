@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class DropDownTest {
+public class DropDownTest extends BaseTest {
     WebDriver driver;
 ////
     @Test
